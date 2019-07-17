@@ -3,7 +3,7 @@
                                   INDIRA GANDHI NATIONAL OPEN UNIVERSITY
                                    Master of Computer Appilications(MCA)
 
-About repository: MCA I sem, course code MCS01 - Web designing (using HTML)
+About repository: MCA I sem, course code MCSL016 - Web designing (using HTML)
 
     Includes HTML programs
     Lab manual
@@ -14,4 +14,4 @@ Running the programs: Compatible with any web browser
 
 Author: Revathi Asokan
 
-Acknowledgments: Hat tip to anyone whose code was used Have FUN with C...! Happy programming...!!
+Acknowledgments: Hat tip to anyone whose code was used Have FUN with HTML...! Happy programming...!!
